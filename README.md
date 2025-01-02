@@ -5,14 +5,14 @@ This project involves the development of a real-time system for detecting labels
 <br />
 
 <h2>Technologies Used</h2>
-- <b>YOLOv8</b> (for label detection)  
+- <b>YOLOv10</b> (for label detection)  
 - <b>EasyOCR</b> (for text extraction)  
 - <b>OpenCV</b> (for preprocessing and visualization)  
 - <b>Roboflow</b> (for annotating images in COCO format)  
 
 <h2>Environments Used</h2>
 - <b>Python</b>  
-- <b>Google Colab</b> (for model training and testing)  
+- <b>Google Colab</b> 
 
 <h2>Project Workflow</h2>
 
